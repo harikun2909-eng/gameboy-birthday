@@ -323,7 +323,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            image: './IMG_20251130_131254_309.jpg'
         },
         {
             text: 'Birthday Moment 🎂',
