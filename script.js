@@ -229,7 +229,7 @@ Happy Birthday!
 
 Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
 
-Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
+Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).xkxixi selalu semangat yaa sayangg, semangat buat semuanya pokonya hehe
 
 I love you so much! 💕`;
     
@@ -322,36 +322,36 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
+            text: 'Pibesday ayangg 💕',
             image: './IMG_20251130_131254_309.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
-            image: './images/photo2.jpg'
+            text: 'Cantikk Moment 🎂',
+            image: './IMG_20251123_115759_879.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
-            image: './images/photo3.jpg'
+            text: 'Sehatt selalu yakk 🌟',
+            image: './IMG_20251102_123412_141.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
-            image: './images/photo4.jpg'
+            text: 'LOVE U Together ❤️',
+            image: './IMG-20251109-WA0013.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
-            image: './images/photo5.jpg'
+            text: 'Sweet CANTIKK🥰',
+            image: './IMG-20251109-WA0012.jpg'
         },
         {
-            text: 'Laugh Together 😂',
-            image: './images/photo6.jpg'
+            text: 'The best love is you❤️'❤️,
+            image: './IMG_20250726_164151_594.jpg'
         },
         {
-            text: 'Perfect Day ☀️',
-            image: './images/photo7.jpg'
+            text: 'HANI AULIA❤️ ☀️',
+            image: './IMG-20251109-WA0009.jpg'
         },
         {
-            text: 'Love Forever 💖',
-            image: './images/photo8.jpg'
+            text: 'Happy brithday sayangg Love u Forever 💖',
+            image: './IMG_20251019_121707_412.jpg'
         }
     ];
     
